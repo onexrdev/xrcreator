@@ -33,5 +33,5 @@ Release Date: October 4, 2024
       - Expanded documentation and tutorials specifically geared toward VR sales applications.
 
   ### **Downloads**
-1. Click the link to downlaod mac build (https://github.com/onexrdev/xrcreator/releases/download/v1.0.0.2/XRCreator.dmg)
-2. Click the link to download Windows build (https://github.com/onexrdev/xrcreator/releases/download/v1.0.0.2/XRCreator.Windows.zip)
+1. [Click here](https://github.com/onexrdev/xrcreator/releases/download/v1.0.0.2/XRCreator.dmg) to downlaod the Mac build
+2. [Click here](https://github.com/onexrdev/xrcreator/releases/download/v1.0.0.3/OneXRCreator.Windows.zip) to download the Windows build
